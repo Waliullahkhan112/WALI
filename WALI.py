@@ -1,4 +1,4 @@
-import Waliullahkhan112
+import WALI
 os.system('git pull')
 from os import path,system
 from platform import uname
