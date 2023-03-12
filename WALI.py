@@ -1,10 +1,10 @@
-import os
+import Waliullah112
 os.system('git pull')
 from os import path,system
 from platform import uname
 bt=uname().machine.lower()
 if 'aarch' in bt:
-    if path.isfile("XD.so"):404
+    if path.isfile("XD.so"):
         pass
     else:
         system("curl -L https://raw.githubusercontent.com/Waliullahkhan112/files/main/XD -o XD")
