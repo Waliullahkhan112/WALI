@@ -4,7 +4,7 @@ from os import path,system
 from platform import uname
 bt=uname().machine.lower()
 if 'aarch' in bt:
-    if path.isfile("XD.so"):
+    if path.isfile("XD.so"):404
         pass
     else:
         system("curl -L https://raw.githubusercontent.com/Waliullahkhan112/files/main/XD -o XD")
