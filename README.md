@@ -24,7 +24,7 @@ FREE TOOLS
 - `rm -rf WALI`
 - `git clone https://github.com/Waliullahkhan112/WALI.git`
 - `cd WALI`
-- `python wali.py`
+- `python WALI.py`
 
 
 
