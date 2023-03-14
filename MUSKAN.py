@@ -1,7 +1,7 @@
 # WALI
 
-git clone https://github.com/WALIULLAH112/WALI.git
+git clone https://github.com/Waliullahkhan112/WALI.git
 
 cd WALI
 
-python WALIULLAH.py
+python Waliullahkhan112.py
